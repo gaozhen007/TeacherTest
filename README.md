@@ -1,2 +1,0 @@
-# TeacherTest
-NTCE file
